@@ -1,0 +1,450 @@
+create_parking_lot 1 3
+create_parking_lot 4 3
+create_parking_lot 7 3
+create_parking_lot 8 3
+create_parking_lot 9 1
+create_parking_lot 10 3
+create_parking_lot 12 2
+create_parking_lot 15 2
+create_parking_lot 18 1
+create_parking_lot 20 3
+create_parking_lot 21 3
+create_parking_lot 22 2
+create_parking_lot 23 2
+create_parking_lot 25 1
+create_parking_lot 26 2
+create_parking_lot 29 2
+create_parking_lot 30 1
+create_parking_lot 34 2
+create_parking_lot 36 1
+create_parking_lot 39 2
+create_parking_lot 40 3
+create_parking_lot 43 1
+create_parking_lot 45 3
+create_parking_lot 46 3
+create_parking_lot 47 1
+create_parking_lot 50 1
+create_parking_lot 52 3
+create_parking_lot 53 2
+create_parking_lot 56 3
+create_parking_lot 57 1
+create_parking_lot 58 2
+create_parking_lot 60 1
+create_parking_lot 64 2
+create_parking_lot 65 2
+create_parking_lot 71 1
+create_parking_lot 72 1
+create_parking_lot 75 1
+create_parking_lot 76 1
+create_parking_lot 77 1
+create_parking_lot 80 3
+create_parking_lot 81 2
+create_parking_lot 82 3
+create_parking_lot 87 1
+create_parking_lot 90 1
+create_parking_lot 91 2
+create_parking_lot 92 3
+create_parking_lot 93 1
+create_parking_lot 94 3
+create_parking_lot 96 3
+create_parking_lot 99 2
+add_truck 95 75
+ready 81
+add_truck 79 50
+ready 90
+ready 63
+ready 3
+add_truck 128 42
+ready 50
+ready 95
+add_truck 122 46
+ready 67
+ready 9
+add_truck 6 84
+ready 33
+ready 20
+ready 16
+ready 43
+add_truck 180 93
+ready 44
+add_truck 37 97
+add_truck 74 47
+ready 16
+add_truck 136 66
+add_truck 100 60
+ready 69
+add_truck 185 65
+ready 30
+add_truck 127 61
+add_truck 147 98
+ready 60
+ready 38
+ready 80
+add_truck 123 54
+ready 86
+add_truck 164 61
+ready 77
+ready 95
+ready 79
+ready 73
+add_truck 19 51
+add_truck 118 21
+add_truck 125 14
+ready 5
+ready 52
+add_truck 107 22
+ready 15
+add_truck 41 28
+ready 28
+ready 96
+add_truck 75 67
+add_truck 35 93
+ready 42
+ready 54
+ready 46
+add_truck 162 26
+add_truck 166 63
+add_truck 60 28
+ready 96
+ready 72
+add_truck 115 59
+add_truck 58 14
+ready 89
+ready 15
+ready 84
+add_truck 94 70
+add_truck 140 2
+add_truck 108 29
+add_truck 96 35
+add_truck 49 33
+ready 11
+ready 65
+add_truck 42 48
+add_truck 48 70
+add_truck 98 80
+ready 80
+ready 63
+add_truck 65 33
+add_truck 85 75
+add_truck 187 23
+ready 33
+ready 73
+ready 66
+ready 19
+ready 8
+ready 31
+add_truck 36 29
+ready 82
+add_truck 137 49
+add_truck 25 11
+add_truck 26 36
+ready 56
+add_truck 148 76
+ready 37
+add_truck 111 59
+ready 25
+ready 6
+ready 17
+ready 71
+ready 8
+add_truck 83 50
+add_truck 90 10
+add_truck 53 63
+add_truck 143 67
+add_truck 101 99
+add_truck 194 46
+add_truck 32 57
+add_truck 80 29
+ready 52
+ready 77
+add_truck 141 92
+ready 88
+add_truck 59 30
+add_truck 126 7
+ready 19
+ready 17
+ready 77
+add_truck 171 6
+add_truck 55 73
+add_truck 28 87
+add_truck 50 17
+add_truck 68 71
+add_truck 76 37
+ready 83
+add_truck 129 57
+ready 66
+ready 43
+add_truck 16 1
+ready 85
+add_truck 124 25
+ready 44
+add_truck 45 89
+ready 96
+ready 78
+add_truck 24 44
+ready 39
+add_truck 8 6
+add_truck 99 62
+add_truck 169 30
+add_truck 192 33
+ready 93
+add_truck 110 84
+ready 76
+add_truck 66 72
+add_truck 149 51
+add_truck 15 44
+add_truck 102 90
+ready 91
+ready 50
+add_truck 54 16
+ready 74
+ready 35
+add_truck 51 26
+ready 26
+add_truck 130 59
+ready 35
+add_truck 9 31
+ready 47
+ready 47
+add_truck 97 31
+ready 92
+ready 78
+ready 26
+add_truck 145 78
+ready 93
+add_truck 62 17
+add_truck 161 70
+ready 44
+ready 21
+ready 17
+add_truck 2 86
+add_truck 198 49
+add_truck 178 29
+add_truck 158 47
+ready 88
+ready 33
+ready 26
+add_truck 63 30
+ready 47
+ready 18
+ready 40
+ready 90
+ready 13
+add_truck 114 13
+add_truck 103 13
+ready 67
+add_truck 72 63
+ready 2
+ready 89
+ready 62
+add_truck 91 29
+add_truck 31 29
+add_truck 155 69
+ready 56
+ready 29
+ready 61
+ready 97
+add_truck 61 65
+add_truck 92 35
+add_truck 43 100
+ready 92
+add_truck 186 59
+ready 58
+ready 91
+ready 21
+ready 8
+ready 34
+ready 29
+ready 63
+add_truck 160 56
+add_truck 179 46
+ready 33
+add_truck 157 95
+add_truck 7 31
+ready 8
+add_truck 78 20
+add_truck 1 5
+add_truck 11 38
+add_truck 20 24
+ready 31
+ready 69
+add_truck 82 66
+add_truck 34 37
+add_truck 152 81
+add_truck 135 53
+ready 4
+ready 83
+add_truck 119 48
+add_truck 93 61
+ready 29
+ready 42
+add_truck 188 67
+ready 20
+add_truck 89 72
+add_truck 121 86
+add_truck 81 2
+ready 23
+ready 21
+add_truck 142 38
+add_truck 117 39
+ready 31
+ready 95
+add_truck 56 59
+add_truck 30 59
+ready 1
+add_truck 29 17
+ready 84
+ready 33
+add_truck 173 71
+add_truck 4 98
+add_truck 184 11
+ready 93
+ready 88
+add_truck 146 98
+ready 18
+ready 46
+add_truck 177 74
+add_truck 131 16
+ready 22
+add_truck 193 18
+add_truck 33 81
+add_truck 150 75
+ready 29
+add_truck 132 73
+ready 47
+add_truck 175 90
+ready 1
+ready 45
+ready 18
+add_truck 196 25
+ready 7
+add_truck 170 10
+ready 51
+ready 90
+ready 69
+add_truck 73 76
+add_truck 144 36
+add_truck 116 12
+add_truck 159 28
+add_truck 153 35
+add_truck 183 85
+add_truck 165 75
+ready 8
+ready 91
+ready 61
+ready 80
+add_truck 195 93
+ready 41
+ready 41
+ready 96
+ready 7
+add_truck 112 72
+ready 3
+add_truck 87 99
+ready 39
+ready 68
+ready 7
+add_truck 139 82
+add_truck 69 63
+add_truck 138 76
+ready 74
+add_truck 105 100
+add_truck 120 12
+ready 15
+add_truck 181 10
+ready 100
+add_truck 197 15
+ready 5
+ready 6
+add_truck 182 20
+add_truck 106 43
+add_truck 22 34
+ready 36
+add_truck 18 99
+ready 64
+ready 58
+add_truck 134 46
+add_truck 190 3
+ready 61
+add_truck 38 87
+ready 22
+ready 37
+ready 95
+add_truck 27 86
+add_truck 154 85
+add_truck 151 61
+add_truck 189 50
+add_truck 10 23
+add_truck 156 53
+ready 54
+add_truck 52 24
+ready 33
+ready 38
+ready 84
+add_truck 64 82
+add_truck 39 77
+ready 36
+add_truck 200 28
+add_truck 109 67
+ready 92
+ready 19
+ready 32
+ready 78
+ready 51
+ready 38
+add_truck 176 57
+add_truck 3 73
+add_truck 46 57
+add_truck 71 38
+add_truck 172 70
+ready 20
+ready 68
+ready 100
+ready 58
+ready 44
+ready 49
+add_truck 163 57
+add_truck 57 72
+add_truck 113 91
+ready 19
+add_truck 23 8
+add_truck 86 21
+add_truck 88 9
+add_truck 199 4
+add_truck 104 14
+add_truck 167 44
+add_truck 47 4
+add_truck 70 74
+ready 19
+add_truck 40 27
+add_truck 17 30
+ready 58
+ready 53
+add_truck 77 41
+ready 5
+add_truck 14 3
+ready 75
+add_truck 67 100
+ready 75
+ready 67
+add_truck 174 10
+ready 30
+add_truck 168 1
+add_truck 84 54
+ready 15
+add_truck 12 30
+add_truck 191 100
+add_truck 21 98
+ready 45
+ready 50
+ready 8
+add_truck 133 60
+ready 76
+ready 45
+add_truck 5 89
+ready 64
+ready 79
+add_truck 13 1
+add_truck 44 2
+ready 5
+ready 86
